@@ -1,0 +1,11 @@
+diff a/primerflutter1/lib/main.dart b/primerflutter1/lib/main.dart	(rejected hunks)
+@@ -98,6 +98,9 @@
+               '$_counter',
+               style: Theme.of(context).textTheme.display1,
+             ),
++            Text(
++              'Que ondas René ya podemos modificar',
++            ),
+           ],
+         ),
+       ),
